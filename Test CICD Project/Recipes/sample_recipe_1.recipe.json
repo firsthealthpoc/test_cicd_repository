@@ -1,7 +1,7 @@
 {
   "name": "Sample Recipe #1",
   "description": "",
-  "version": 7,
+  "version": 8,
   "private": true,
   "concurrency": 1,
   "code": {
@@ -73,7 +73,7 @@
             "keyword": "action",
             "input": {
               "user_logs_enabled": "false",
-              "message": "testing..tester..test"
+              "message": "testing..tester..tester"
             },
             "extended_input_schema": [
               {
